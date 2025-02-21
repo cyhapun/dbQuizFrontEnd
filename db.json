@@ -1,6 +1,12 @@
 {
     "users": [
-      
+      {
+        "fullName": "Chau Huynh Phuc",
+        "email": "admin",
+        "password": "123",
+        "token": "1zg8r8lixn30xpyf6z935fm",
+        "id": 1
+      }
     ],
     "topics": [
       {
@@ -874,6 +880,76 @@
       }
     ],
     "answers": [
-      
+      {
+        "userId": 1,
+        "topicId": 0,
+        "answers": [
+        {
+        "questionId": 1,
+        "answerFromUser": 2
+        },
+        {
+        "questionId": 2,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 4,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 13,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 20,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 21,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 28,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 34,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 43,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 46,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 50,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 55,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 56,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 60,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 64,
+        "answerFromUser": 0
+        },
+        {
+        "questionId": 68,
+        "answerFromUser": 0
+        }
+        ],
+        "id": 1
+        }
     ]
   }
